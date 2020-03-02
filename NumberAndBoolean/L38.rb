@@ -3,4 +3,4 @@
 puts
 2.upto(12) do |i| p "#{i}" end
 
-1.step(10,2) do |i| p "#{i}" end
+# 1.step(10,2) do |i| p "#{i}" end
