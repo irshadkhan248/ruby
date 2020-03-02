@@ -1,5 +1,4 @@
 a="Hello World"
-p a.normalize
 
 p a
 a.upcase!
