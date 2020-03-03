@@ -5,15 +5,16 @@ def fizzBuzz(number)
   i=1
   while i<=number
 if number%3==0 && number%5==0
-  print "fizzBuzz"
+  print "\nfizzBuzz"
 elsif number%5==0
-  print "buzz"
+  print "\nbuzz"
 elsif number%3==0
-  print "fizz"
+  print "\nfizz"
 else
-  print "please enter correct number"
+  print "\nplease enter correct number"
 
 end
+i+=i
 end
 end
-fizzBuzz(213)
+fizzBuzz(45)
