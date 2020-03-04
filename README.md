@@ -1,2 +1,2 @@
 # ruby
-#to run ruby fileName.rb
+# to run,    ruby fileName.rb
